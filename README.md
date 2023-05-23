@@ -1,2 +1,2 @@
-# Java-Projects
+# Guesser Game 
 Guesser Game
